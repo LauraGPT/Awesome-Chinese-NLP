@@ -68,6 +68,10 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK) (Python & Java) A Chinese Nature Language Toolkit
 
+- [FunASR](https://github.com/modelscope/FunASR) by 达摩院 (Python) 工业级语音识别工具包，支持语音识别（Paraformer/SenseVoice）、语音活动检测、标点恢复、说话人分离、情感检测，覆盖 50+ 语种，GPU 推理 170 倍实时。
+
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) by 达摩院 (Python) 超快速非自回归语音理解模型，支持 50+ 语种语音识别、情感识别和音频事件检测，234M 参数。
+
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
